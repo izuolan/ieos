@@ -1,2 +1,2 @@
-![El General preview](http://i.imgur.com/MtFu8gN.png)
-
+![El General preview](EIgeneral.png)
+![Bridge preview](Bridge.png)

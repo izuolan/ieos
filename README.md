@@ -8,9 +8,10 @@
 
 ## Installation
 
-#### icons and cursors
+#### icons and cursors, plank
 * `git clone https://github.com/izuolan/ieos.git && cd ieos`
 * `sudo mv ElGeneral /usr/share/icons/`
+* `sudo mv ieos /usr/share/plank/themes/`
 * open **Setting--Tweaks**, change the icons and cursors(if you don't hava Tweaks, just install).
 * edit `cd /usr/share/icons/default && sudo vim index.theme`
 ```

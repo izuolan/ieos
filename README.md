@@ -12,8 +12,14 @@
 * `git clone https://github.com/izuolan/ieos.git && cd ieos`
 * `sudo mv ElGeneral /usr/share/icons/`
 * open **Setting--Tweaks**, change the icons and cursors.
+* edit `cd /usr/share/icons/default && sudo vim index.theme`
+```
+[Icon Theme]
+Name=ElGeneral
+Inherits=ElGeneral
+```
 
-> Install Tweaks：
+> if you don't hava Tweaks, just install:
 ```shell
 sudo apt-add-repository ppa:mpstark/elementary-tweaks-daily
 sudo apt-get update
